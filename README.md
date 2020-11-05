@@ -1,5 +1,5 @@
 # StockXAPI
-Unofficial API for StockX using Python.
+API for StockX using Python.
 
 ## Requirements
 Install all requirements using:
